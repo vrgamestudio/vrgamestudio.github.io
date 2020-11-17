@@ -43,7 +43,7 @@ date: 2020-11-17
 	With amazon it was poor old Botty Bird getting rejected time and again and eventually I had to send them a legally signed letter stating I had the rights to publish it.
 </p>
 <p>
-	With Google, well where do i even start? I've already been had my ad revenue suddenly demonitized because of &quot;potentially suspicious activity&quot; and the very latest being they've completely deleted my Space Invader 7 trial app without warning, 
+	With Google, well where do i even start? I've already had all my ad revenue suddenly demonitized because of &quot;potentially suspicious activity&quot; and they even went out of their way to tell me that they couldn't possibly tell me what this activity was as this would tip off the hackers how to game the system! In other words, don't bother asking because we won't tell you, this is our get out of jail card catch all. The very latest being they've completely deleted my Space Invader 7 trial app without warning, 
 	seemingly because it dares have the same logo as the game it is a Trial for. This just happened to be on an update where I was promoting the Amazon Fire TV controller support. That's it, no letting me change anything, just deleted, start again, nothing I can do, no one I can talk to, no test of reasonableness.
 </p>
 <p>
