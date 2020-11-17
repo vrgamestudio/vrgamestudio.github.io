@@ -47,7 +47,7 @@ date: 2020-11-17
 </p>
 <p>
 	And then there is dear old Microsoft. Dismissing Space Invader 7 for a full xbox release, out of hand, twice and now refusing to engage with me when i ask about their reporting statistics,
-	telling me I get no page visitors, no stats, but that results in 1000s of downloads. Why Microsoft, why?
+	telling me I get no page visitors, no stats, but that results in 1000s of downloads. So obviously a huge bug in their reporting numbers yet they just pretend it's not happening. Why Microsoft, why?
 </p>
 <p>
 	Just on a general point of rant, why is everything so.....shit these days? Everything is a scam, everyone has an angle. I can't even watch youtube these days without
