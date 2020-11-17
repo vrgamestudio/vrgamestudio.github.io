@@ -1,9 +1,9 @@
 body {
+	font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
-	font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 	padding: 0px;
 	list-style: none;
 	font-weight: bold;
@@ -21,8 +21,10 @@ a:hover {
 }
 h1 {
 	font-size: 3em;
-	font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
+h2 { font-size: 2.5em; }
+h3 { font-size: 2em; }
+
 p {
 	font-size: 1.5em;
 	line-height: 1.4em;
