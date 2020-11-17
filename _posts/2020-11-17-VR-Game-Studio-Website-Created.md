@@ -42,8 +42,8 @@ date: 2020-11-17
 	With amazon it was poor old Botty Bird getting rejected time and again and eventually I had to send them a legally signed letter stating I had the rights to publish it.
 </p>
 <p>
-	With Google it's one thing after another, all the time, the very latest being they've completely deleted my Space Invader 7 trial app without warning, 
-	seemingly because it dares have the same logo as the game it is a Trial for. That's it, no letting me change anything, just deleted, start again, nothing I can do, no one I can talk to, no test of reasonableness.
+	With Google, well where do i even start? I've already been had my ad revenue suddenly demonitized because of &quot;potentially suspicious activity&quot; and the very latest being they've completely deleted my Space Invader 7 trial app without warning, 
+	seemingly because it dares have the same logo as the game it is a Trial for. This just happened to be on an update where I was promoting the Amazon Fire TV controller support. That's it, no letting me change anything, just deleted, start again, nothing I can do, no one I can talk to, no test of reasonableness.
 </p>
 <p>
 	And then there is dear old Microsoft. Dismissing Space Invader 7 for a full xbox release, out of hand, twice and now refusing to engage with me when i ask about their reporting statistics,
