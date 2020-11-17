@@ -36,7 +36,7 @@ date: 2020-11-17
 	</li>
 </ul>
 <p>
-  To be honest, over the last year or so all the big tech platforms I deal with have driven me to the edge of dispair at one time or another, to one degree or another.
+  To be honest, over the last year or so all the big tech platforms I deal with have driven me to the edge of dispair at one time or another, to some degree.
 </p>
 <p>
 	With amazon it was poor old Botty Bird getting rejected time and again and eventually I had to send them a legally signed letter stating i had the rights to publish it.
