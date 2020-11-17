@@ -50,8 +50,8 @@ date: 2020-11-17
 	telling me I get no page visitors, no stats, but that results in 1000s of downloads. So obviously a huge bug in their reporting numbers yet they just pretend it's not happening. Why Microsoft, why?
 </p>
 <p>
-	Just on a general point of rant, why is everything so.....shit these days? Everything is a scam, everyone has an angle. I can't even watch youtube these days without
-	being bombarded with ads and badly disguised product placement, sponsoring, patreon support begging. Urgggghhh I hate it all so much!
+	Just on a general point of rant, why is everything so.....shit these days? Everything is a scam, everyone has an angle. I can't even watch youtube without
+	being bombarded with multiple ads and badly disguised product placement, sponsoring, patreon support begging. It's all so underhand, where is the advertising standards in all this? Urgggghhh I hate it all so much!
 </p>
 <p>
 	So here at VR game Studio I try to do things differently to everyone else. I try to make stand alone products without any subscription, spyware, malware, dodgy SDKs,
