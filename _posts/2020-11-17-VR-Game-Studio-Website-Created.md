@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VR Game Studio Website created
+title: "VR Game Studio Website Created"
 date: 2020-11-17
 ---
 
