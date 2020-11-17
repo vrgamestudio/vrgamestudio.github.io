@@ -44,4 +44,4 @@ date: 2020-11-17
 	&quot;made to feel bad by an alogorithm or an AI&quot;. If this turns out to be truly the way of things then it is an obscene situation to have gotten into and it must be stopped.
 </p>
 <p>&lt;/rant&gt;<p>
-<p>Right so with that out of the way, as i was saying, welcome one and all to all things VR Game Studio</p>
+<p>Right so with that out of the way, as i was saying, welcome one and all to all things VR Game Studio!</p>
