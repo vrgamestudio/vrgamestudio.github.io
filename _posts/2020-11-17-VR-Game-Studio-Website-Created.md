@@ -39,11 +39,11 @@ date: 2020-11-17
   To be honest, over the last year or so all the big tech platforms I deal with have driven me to the edge of dispair at one time or another, to some degree.
 </p>
 <p>
-	With amazon it was poor old Botty Bird getting rejected time and again and eventually I had to send them a legally signed letter stating i had the rights to publish it.
+	With amazon it was poor old Botty Bird getting rejected time and again and eventually I had to send them a legally signed letter stating I had the rights to publish it.
 </p>
 <p>
 	With Google it's one thing after another, all the time, the very latest being they've completely deleted my Space Invader 7 trial app without warning, 
-	seemingly because it dares have the same logo as the game it is a Trial for. That's it, no letting me change anything, just deleted, start again, nothing I can do.
+	seemingly because it dares have the same logo as the game it is a Trial for. That's it, no letting me change anything, just deleted, start again, nothing I can do, no one I can talk to, no test of reasonableness.
 </p>
 <p>
 	And then there is dear old Microsoft. Dismissing Space Invader 7 for a full xbox release, out of hand, twice and now refusing to engage with me when i ask about their reporting statistics,
@@ -58,8 +58,8 @@ date: 2020-11-17
 	selling user info, loot boxes, in app purchases, none of that, just an honest product for a fair price. If you like it then please just buy it and we are done.
 	No doubt my idealism will need to be tempered with time but for goodness sake, it should not be like this.
 </p>
-<p>I suppose that most of all this can be summed up that I, and I suppose many or even most of us now are being bullied by robots. And when I say bullied I mean it in the truest sense, 
-	&quot;made to feel bad by an alogorithm or an AI&quot;. If this turns out to be truly the way of things then it is an obscene situation to have gotten into and it must be stopped.
+<p>I suppose that all this can be summed up that I, and I suppose many or even most of us now are being bullied by robots. And when I say bullied I mean it in the truest sense, 
+	&quot;made to feel bad by an alogorithm or an AI&quot;. I'll be honest; when these things happen it ruins my day, puts me in a bad mood and winds me up no end.  If this turns out to be truly the way of things then it is an obscene situation to have gotten into and it must be stopped eventually.
 </p>
 <p>&lt;/rant&gt;<p>
 <p>Right so with that out of the way, as i was saying, welcome one and all to all things VR Game Studio!</p>
