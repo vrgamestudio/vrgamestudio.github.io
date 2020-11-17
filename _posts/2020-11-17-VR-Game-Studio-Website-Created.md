@@ -26,7 +26,7 @@ date: 2020-11-17
 		Today I discovered I was locked out of all my running ads because my account was disabled due to "suspicious activity".
 	</li>
   	<li>
-		All despite being a &quote;trusted Oculus Start member&quot; with a Rift and Go devkit and even an Oculus branded hoodie!
+		All despite being a &quot;trusted Oculus Start member&quot; with a Rift and Go devkit and even an Oculus branded hoodie!
 	</li>
   	<li>
 		I had to send them my driving license to get my stuff unlocked, this was the last straw for me, I'm out!
