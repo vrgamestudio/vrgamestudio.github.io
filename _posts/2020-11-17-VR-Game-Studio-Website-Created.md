@@ -8,17 +8,35 @@ date: 2020-11-17
 <p>I know it's bad form to start in such a way but this is a bit of a rant. Very bad karma over there at faceboooook land. In just a few short weeks I've had:</p>
 <p>&lt;rant&gt;</p>
 <ul>
-  <li>Random Shop products disallowed because they &quot;promote firearms or explosives&quot; (they don't), then after review because they promote a downloadable game! (guilty as charged)</li>
-  <li>their awful site redesign</li>
-  <li>My shop got deleted entirely, requiring me to set up a new &quot;enhanced&quot; shop and a new business account</li>
-  <li>I've had my public business documents links now hidden behind facebook account login, without warning. This has caused big issues with other partners trying to access said documents.</li>
-  <li>Today I discovered I was locked out of all my running ads because my account was disabled due to "suspicious activity".</li>
-  <li>All despite being a &quote;trusted Oculus Start member&quot; with a Rift and Go devkit and even an Oculus branded hoodie!<li>
-  <li>I had to send them my driving license to get my stuff unlocked, this was the last straw for me, I'm out!</li>
-  <li>All this without warning and without being able to ACTUALLY TALK TO A HUMAN BEING.</li>
+  	<li>
+	  Random Shop products disallowed because they &quot;promote firearms or explosives&quot; (they don't), 
+	  then after review because they promote a downloadable game! (guilty as charged).
+	</li>
+  	<li>
+		their awful site redesign.
+	</li>
+  	<li>
+		My shop got deleted entirely, requiring me to set up a new &quot;enhanced&quot; shop and a new business account.
+	</li>
+  	<li>
+		I've had my public business documents links now hidden behind facebook account login, without warning. 
+		This has caused big issues with other partners trying to access said documents.
+	</li>
+  	<li>
+		Today I discovered I was locked out of all my running ads because my account was disabled due to "suspicious activity".
+	</li>
+  	<li>
+		All despite being a &quote;trusted Oculus Start member&quot; with a Rift and Go devkit and even an Oculus branded hoodie!
+	</li>
+  	<li>
+		I had to send them my driving license to get my stuff unlocked, this was the last straw for me, I'm out!
+	</li>
+  	<li>
+		All this without warning and without being able to ACTUALLY TALK TO A HUMAN BEING.
+	</li>
 </ul>
 <p>
-  To be honest, over the last year all the big tech platforms I deal with have driven me to the edge of dispair at one time or another, to one degree or another.
+  To be honest, over the last year or so all the big tech platforms I deal with have driven me to the edge of dispair at one time or another, to one degree or another.
 </p>
 <p>
 	With amazon it was poor old Botty Bird getting rejected time and again and eventually I had to send them a legally signed letter stating i had the rights to publish it.
