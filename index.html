@@ -1,21 +1,106 @@
----
-layout: default
-title: VR Game Studio
----
-<div class="blurb">
-	<h1>Welcome to VR Game Studio</h1>
-    <p>Here you'll find games to play, blogs to read and other info.</p>
-	
-	<h3>Posts</h3>
-	<ul class="posts">
-		{% for post in site.posts %}
-			<li>
-				<span>
-					{{ post.date | date_to_string }}
-				</span> 
-				» 
-				<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-			</li>
-		{% endfor %}
-	</ul>
-</div>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>LLS Games</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to bottom right, #1f1f1f, #2c2c54);
+      color: white;
+      text-align: center;
+      padding: 2rem;
+    }
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 2rem;
+      color: #ffdb58;
+    }
+    .game-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 2rem;
+    }
+    .game-tile {
+      background-color: #333;
+      border-radius: 12px;
+      padding: 1rem;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .game-tile:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 10px #ffdb58;
+    }
+    .game-icon {
+      width: 128px;
+      height: 128px;
+      object-fit: contain;
+      border-radius: 10px;
+    }
+    .game-title {
+      margin-top: 0.5rem;
+      font-size: 1rem;
+      color: #fff;
+    }
+    a {
+      text-decoration: none;
+      color: inherit;
+    }
+  </style>
+</head>
+<body>
+  <h1>LLS Games</h1>
+  <p style="max-width: 600px; margin: 2rem auto; font-size: 1.1rem; line-height: 1.6;">
+    Welcome to <strong>VR Game Studio</strong>—where imagination takes the lead and every pixel has a purpose. We're an independent publisher/developer with a deep love for fast-paced arcade thrills, retro aesthetics, and pushing creative boundaries. This page is a growing archive of the projects we’ve brought to life so far, with many more in the pipeline. 
+    If you’ve encountered an issue, or just want to share your high score brag, we’d love to hear from you:<br> 
+    <a href="mailto:vrgamestudios@gmail.com" style="color: #ffdb58;">contact us</a>
+  </p>
+
+  <h2>Games on the Microsoft Platform</h2>
+  <h4>(Windows PC and Xbox consoles)</h4>
+  <div class="game-container" id="games"></div>
+
+  <script>
+    fetch("/api/OtherGames/index.json")
+      .then(response => response.json())
+      .then(data => {
+        if (!Array.isArray(data.Games)) {
+          throw new Error("Unexpected JSON format");
+        }
+
+        const container = document.getElementById("games");
+
+        //data.Games.slice(1).forEach(game => {
+        data.Games.forEach(game => {
+          const tile = document.createElement("div");
+          tile.className = "game-tile";
+
+          const link = document.createElement("a");
+          link.href = game.StoreUrl + "&cid=lls_website";
+
+          const icon = document.createElement("img");
+          icon.src = "/api/OtherGames/" + game.IconUrl;
+          icon.alt = game.Title;
+          icon.className = "game-icon";
+
+          const title = document.createElement("div");
+          title.className = "game-title";
+          title.textContent = game.Title;
+
+          link.appendChild(icon);
+          tile.appendChild(link);
+          tile.appendChild(title);
+          container.appendChild(tile);
+        });
+      })
+      .catch(error => {
+        console.error("Failed to load games JSON:", error);
+        document.getElementById("games").innerText = "Failed to load games.";
+      });
+  </script>
+</body>
+</html>
