@@ -1,1 +1,85 @@
-
+{
+  "Version": 2,
+  "Games": [
+    {
+      "StoreUrl": "ms-windows-store://pdp/?productid=9PNK1K28ZJK4",
+      "DisplayText": "Space Invaders Deluxe Arcade Collection",
+      "Title": "Space Invaders Deluxe Arcade Collection",
+      "TitleScale": 2.8,
+      "ScreenUrl": "SIDCollectionTitleScreen.png",
+      "IconUrl": "SIDIcon512_Collection.png"
+    },
+    {
+      "StoreUrl": "ms-windows-store://pdp/?productid=9P7ZBJSL0PDG",
+      "DisplayText": "Space Invaders Deluxe Part I",
+      "Title": "Space Invaders Deluxe Part I",
+      "TitleScale": 2.8,
+      "ScreenUrl": "SIDPart1TitleScreen.png",
+      "IconUrl": "SIDIcon512_Part1.png"
+    },
+    {
+      "StoreUrl": "ms-windows-store://pdp/?productid=9MVD9DCGMSN7",
+      "DisplayText": "Space Invaders Deluxe Part II",
+      "Title": "Space Invaders Deluxe Part II",
+      "TitleScale": 2.8,
+      "ScreenUrl": "SIDPart2TitleScreen.png",
+      "IconUrl": "SIDIcon512_Part2.png"
+    },
+    {
+      "StoreUrl": "ms-windows-store://pdp/?productid=9P96RKX6D6ZP",
+      "DisplayText": "Asteroids Origin",
+      "Title": "Asteroids Origin",
+      "TitleScale": 4,
+      "ScreenUrl": "AsteroidsOriginTitleScreen.png",
+      "IconUrl": "AsteroidsIcon512.png"
+    },
+    {
+      "StoreUrl": "ms-windows-store://pdp/?productid=9N3GMX97T6F2",
+      "DisplayText": "Geometry Warp",
+      "Title": "Geometry Warp",
+      "TitleScale": 4,
+      "ScreenUrl": "GeometryWarpTitleScreen.png",
+      "IconUrl": "GeometryWarpIcon512.png"
+    },
+    {
+      "StoreUrl": "ms-windows-store://pdp/?productid=9MV2K70C29WN",
+      "DisplayText": "Asteroids Origin & Geometry Warp",
+      "Title": "Asteroids Origin & Geometry Warp",
+      "TitleScale": 3,
+      "ScreenUrl": "AsteroidsOriginGeometryWarpTitleScreen.png",
+      "IconUrl": "AsteroidsGeometryIcon512.png"
+    },
+    {
+      "StoreUrl": "ms-windows-store://pdp/?productid=9NN1QTX9P8GN",
+      "DisplayText": "Space Invader 7 (with 3D!)*\n*On capable devices.\n(Try parallel view this image?)",
+      "Title": "Space Invader 7",
+      "TitleScale": 3,
+      "ScreenUrl": "SI7TitleScreen.png",
+      "IconUrl": "SI7Icon512.png"
+    },
+    {
+      "StoreUrl": "ms-windows-store://pdp/?productid=9N4TK34FWHFK",
+      "DisplayText": "Universe Simulator™ Screensaver",
+      "Title": "Universe Simulator™ Screensaver",
+      "TitleScale": 2.8,
+      "ScreenUrl": "UniverseSimulatorTitleScreen.png",
+      "IconUrl": "UniverseSimulatorLogo512.png"
+    },
+    {
+      "StoreUrl": "ms-windows-store://pdp/?productid=9NZP22HRK504",
+      "DisplayText": "Amazing Blocks Classic",
+      "Title": "Amazing Blocks Classic",
+      "TitleScale": 4,
+      "ScreenUrl": "AmazingBlocksTitleScreen.png",
+      "IconUrl": "AmazingBlocksIcon512.png"
+    },
+    {
+      "StoreUrl": "ms-windows-store://pdp/?productid=9NZN98T232RJ",
+      "DisplayText": "Botty Bird",
+      "Title": "Botty Bird",
+      "TitleScale": 4,
+      "ScreenUrl": "BottyBirdTitleScreen.png",
+      "IconUrl": "BottyBirdIcon512.png"
+    }
+  ]
+}
