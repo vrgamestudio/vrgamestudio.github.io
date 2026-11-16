@@ -1,6 +1,14 @@
 {
-  "Version": 2,
+  "Version": 3,
   "Games": [
+    {
+      "StoreUrl": "ms-windows-store://pdp/?productid=9NFNP4JH7K0H",
+      "DisplayText": "Stellar Strike",
+      "Title": "Stellar Strike",
+      "TitleScale": 4,
+      "ScreenUrl": "StellarStrikeTitleScreen.png",
+      "IconUrl": "StellarStrikeIcon512.png"
+    },
     {
       "StoreUrl": "ms-windows-store://pdp/?productid=9PNK1K28ZJK4",
       "DisplayText": "Space Invaders Deluxe Arcade Collection",
